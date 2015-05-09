@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2010\Projects\worddocumentreader\worddocumentreader\obj\x86\Debug\worddocumentreader.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\worddocumentreader\worddocumentreader\bin\Debug\worddocumentreader.exe
+c:\users\user\documents\visual studio 2010\Projects\worddocumentreader\worddocumentreader\bin\Debug\worddocumentreader.pdb
+c:\users\user\documents\visual studio 2010\Projects\worddocumentreader\worddocumentreader\obj\x86\Debug\worddocumentreader.exe
+c:\users\user\documents\visual studio 2010\Projects\worddocumentreader\worddocumentreader\obj\x86\Debug\worddocumentreader.pdb
